@@ -25,4 +25,4 @@ jobs:
       id-token: write
     uses: kubewarden/github-actions/.github/workflows/reusable-release-policy-rust.yml@v3.1.0
     with:
-      oci-target: ghcr.io/armand-AbsolutSensing/kubewarden-policies/demo
+      oci-target: ghcr.io/armand-absolutsensing/kubewarden-policies/demo
